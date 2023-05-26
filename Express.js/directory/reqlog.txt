@@ -1,0 +1,6 @@
+2023-45-18		03:45:47	 a6605801-18b7-4387-9b7f-ae7fb26f6afb	OPTIONS	/	https://www.google.com
+2023-45-18		03:45:47	 4c15a7d1-c9c4-44db-86fd-b5125e498c75	GET	/	https://www.google.com
+2023-53-18		03:53:34	 097e6ae0-c5fe-4f53-97db-bc26ad6e2967	GET	/	undefined
+2023-53-18		03:53:34	 12dd0fad-9e47-4971-97a6-2871b750ba47	GET	/css/style.css	undefined
+2023-55-18		03:55:30	 10fdaada-5a3d-462c-b5a8-11306e9bf8b5	GET	/404	undefined
+2023-55-18		03:55:30	 a3569269-4ad7-4f3e-a611-0af218883795	GET	/style.css	undefined

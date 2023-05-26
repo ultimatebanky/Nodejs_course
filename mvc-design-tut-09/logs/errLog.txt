@@ -1,0 +1,8 @@
+2023-05-18		11:25:37	085bcd94-7935-4fa1-8ae3-57d237186c37	 Error, Not allowed by CORS
+2023-05-18		11:25:37	bed0c4fa-f201-4246-b69c-0dabb6fb3354	 Error, Not allowed by CORS
+2023-05-18		11:28:11	1e379d1e-6da9-42e8-b5c6-2deed5a337ab	 Error, Not allowed by CORS
+2023-05-18		11:28:11	0f22ff90-c9ef-4456-b861-b71b27a940b6	 Error, Not allowed by CORS
+2023-05-18		12:47:31	7720695d-dca5-4484-85ea-f798b37055e0	 Error, ENOENT: no such file or directory, stat 'C:\Users\lukma\Desktop\Documentation\Work\DLT-node-js-course\router-tut-8\views\subdir\text.html'
+2023-05-19		12:28:29	25ba26ae-1ed4-4239-96c6-1bd8bf962cbd	 TypeError, res.join is not a function
+2023-05-19		12:31:09	88a8d76a-efe0-4316-b734-89714ae9d072	 ReferenceError, filteredArray is not defined
+2023-05-23		01:59:15	e5323223-2537-4ecf-8022-6be8d51968d5	 SyntaxError, Unexpected token '"', "#" is not valid JSON

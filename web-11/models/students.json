@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "firstname" : "Akeem",
+        "lastname" : "Balogun"
+    
+    },
+    {
+        "id" : 2,
+        "firstname" : "Tijani",
+        "lastname" : "Azeez"
+    
+    },
+    {
+        "id" : 3,
+        "firstname" : "Abubakr",
+        "lastname" : "Haruna"
+    
+    },
+    {
+        "id" : 4,
+        "firstname" : "Bimpe",
+        "lastname" : "Tola"
+    
+    },
+    {
+        "id" : 5,
+        "firstname" : "Chess",
+        "lastname" : "Man"
+    
+    }
+    
+]
+  

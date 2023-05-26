@@ -1,0 +1,142 @@
+[
+    {
+        "title" : "cohort One",
+        "number" : 6,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Two",
+        "number" : 11,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Three",
+        "number" : 100,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Four",
+        "number" : 6,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort five",
+        "number" : 11,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Six",
+        "number" : 100,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Seven",
+        "number" : 6,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Eight",
+        "number" : 11,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Nine",
+        "number" : 100,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    },
+    {
+        "title" : "cohort Ten",
+        "number" : 100,
+        "duration": "6 months",
+        "location": "Pegamut",
+        "activities": {
+            "indoor": "Whot",
+            "outdoor": "Football",
+            "fun": "Happy Hour"
+        },
+        "Classes": {
+            "medium": "Physical"
+        }
+    }
+]

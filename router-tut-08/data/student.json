@@ -1,0 +1,22 @@
+[   
+    {
+        "id": 1,
+        "firstName": "Akeem",
+        "lastName": "Balogun"
+    },
+    {
+        "id": 2,
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo"
+    },
+    {
+        "id": 3,
+        "firstName": "Kylian",
+        "lastName": "Mbappe"
+    },
+    {
+        "id": 4,
+        "firstName": "Ultimate",
+        "lastName": "Banky"
+    }
+]

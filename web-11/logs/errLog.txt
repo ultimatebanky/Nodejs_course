@@ -1,0 +1,39 @@
+2023-26-18		11:26:57	 306b2436-2272-4d55-bbb0-f8bb390cab92	 Error, Not allowed by CORS 
+2023-26-18		11:26:57	 f53b4ec4-7d8b-497b-a924-b6aa3252d1c8	 Error, Not allowed by CORS 
+2023-27-18		11:27:37	 b1fe20bf-b13d-46e5-9462-b525de72f4e6	 Error, Not allowed by CORS 
+2023-27-18		11:27:37	 041907a8-b84a-46d7-9735-753f1d724f73	 Error, Not allowed by CORS 
+
+2023-44-18		11:44:11	 284c1d34-4036-4674-98a3-1a25ddb76598	 Error, Not allowed by CORS 
+2023-44-18		11:44:11	 c12b7e06-09b5-4ae7-957b-6c9a960e5901	 Error, Not allowed by CORS 
+2023-46-18		12:46:37	 31a042ed-a722-4411-9639-0e2ca0985625	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\test.html' 
+2023-47-18		12:47:33	 0602d305-616e-4934-9a96-0375788935f0	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\test.html' 
+2023-47-18		12:47:37	 77310a0a-7453-4863-afa7-df5def19418d	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\test.html' 
+2023-47-18		12:47:44	 353e6f0d-fe3d-46b2-8463-34d4f205a572	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-47-18		12:47:47	 b50317a8-4584-454d-b3d0-19ddd0bc2c73	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-48-18		12:48:06	 7a3d6a01-ade0-403a-8bc1-e277206482f8	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-48-18		12:48:10	 f26a8551-151f-42cd-853d-f62fcc79b0f8	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-57-18		15:57:29	 f14274b6-2a6a-4518-933d-f80c00a0e34d	 SyntaxError, Unexpected non-whitespace character after JSON at position 81 
+2023-22-19		12:22:19	 114b5a60-8a78-449f-ad3a-18ea2d69c3f3	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-22-19		12:22:39	 67e07fdf-acab-487d-80b4-bf7a410c2475	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-23-19		12:23:31	 a5cc35c6-4b8b-46d6-ba77-759c98c6e6dc	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-23-19		12:23:48	 6460f42d-a6ee-4144-b6ae-e2dbe6e1fe7f	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-26-19		12:26:19	 e1cad505-a10f-4503-82e8-60349ed23793	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-28-19		12:28:42	 8370d250-8ef8-43be-9673-79febdfad67f	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-32-19		12:32:29	 4352a304-158f-406f-ad38-b30a9a76f682	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-33-19		12:33:39	 022e6b59-f1e4-4332-a61a-a59cd1556626	 TypeError, data.students.find is not a function 
+2023-35-19		12:35:11	 2b217047-e735-4852-aae4-1fcc623763e2	 TypeError, data.students.find is not a function 
+2023-53-19		12:53:12	 84c0e5c3-1369-4315-9b9c-e635360cd0ec	 TypeError, data.students.find is not a function 
+2023-29-23		09:29:33	 da526981-a65f-469b-8169-7207fb72d4ce	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-32-23		09:32:33	 da8f51ac-d919-46d1-887a-f58253aadca3	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-41-23		09:41:02	 630ad172-62d8-4872-8d53-6893aab65913	 TypeError, Cannot read properties of undefined (reading 'id') 
+2023-51-24		12:51:08	 0ec091e8-d3ba-4ec1-8e14-d323a7d67daa	 SyntaxError, Unexpected token 'e', "#" is not valid JSON 
+2023-51-24		12:51:42	 6a1d4f0a-b723-4c46-ae1c-674afdf655b1	 SyntaxError, Unexpected token 'e', "#" is not valid JSON 
+2023-52-24		12:52:38	 b7ff764d-4e29-42d1-959d-bce6b53befc3	 SyntaxError, Unexpected token 'e', "#" is not valid JSON 
+2023-53-24		12:53:50	 839eaaad-5148-4e54-8de7-5009fb38345d	 SyntaxError, Unexpected token 'e', "#" is not valid JSON 
+2023-56-24		12:56:11	 7725986d-9e9a-4119-ab4b-0b35903f7176	 SyntaxError, Unexpected token 'e', "#" is not valid JSON 
+2023-51-25		09:51:10	 32a7ce04-7913-40d5-825a-e5dab4d13010	 ReferenceError, refreshToken is not defined 
+2023-52-25		09:52:25	 edaee154-d2e0-442e-a741-5cd69313bea0	 ReferenceError, refreshToken is not defined 
+2023-57-25		09:57:37	 1f1ea8d5-d63d-44b5-a533-625d8cb78fe8	 ReferenceError, refreshToken is not defined 
+2023-57-25		09:57:44	 0791572a-9961-42af-91be-1e1c7a7f5fa4	 ReferenceError, refreshToken is not defined 
+2023-06-25		10:06:52	 555250d3-2efa-4a52-8c7a-fc43944ca1b4	 ReferenceError, refreshToken is not defined 
+2023-26-25		11:26:33	 f728ed7e-9df1-481f-9961-eaaf8ad9a4f7	 ReferenceError, refreshToken is not defined 
